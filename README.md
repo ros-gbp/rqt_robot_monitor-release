@@ -1,3 +1,26 @@
+## rqt_robot_monitor (melodic) - 0.5.8-0
+
+The packages in the `rqt_robot_monitor` repository were released into the `melodic` distro by running `/usr/bin/bloom-release rqt_robot_monitor --track melodic --rosdistro melodic` on `Thu, 12 Apr 2018 03:04:03 -0000`
+
+The `rqt_robot_monitor` package was released.
+
+Version of package(s) in repository `rqt_robot_monitor`:
+
+- upstream repository: https://github.com/ros-visualization/rqt_robot_monitor.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.5.8-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.2`
+- catkin_pkg version: `0.4.1`
+- rosdep version: `0.11.8`
+- rosdistro version: `0.6.6`
+- vcstools version: `0.1.40`
+
+
 ## rqt_robot_monitor (kinetic) - 0.5.8-1
 
 The packages in the `rqt_robot_monitor` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -r kinetic -t kinetic rqt_robot_monitor --edit` on `Wed, 07 Feb 2018 08:03:56 -0000`
