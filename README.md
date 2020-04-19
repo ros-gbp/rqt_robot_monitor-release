@@ -1,3 +1,26 @@
+## rqt_robot_monitor (noetic) - 0.5.10-1
+
+The packages in the `rqt_robot_monitor` repository were released into the `noetic` distro by running `/usr/bin/bloom-release rqt_robot_monitor --rosdistro noetic` on `Sun, 19 Apr 2020 09:05:49 -0000`
+
+The `rqt_robot_monitor` package was released.
+
+Version of package(s) in repository `rqt_robot_monitor`:
+
+- upstream repository: https://github.com/ros-visualization/rqt_robot_monitor.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.5.10-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.3`
+- catkin_pkg version: `0.4.17`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.1`
+- vcstools version: `0.1.42`
+
+
 ## rqt_robot_monitor (melodic) - 0.5.9-1
 
 The packages in the `rqt_robot_monitor` repository were released into the `melodic` distro by running `/usr/bin/bloom-release rqt_robot_monitor --rosdistro melodic` on `Wed, 24 Jul 2019 09:05:45 -0000`
