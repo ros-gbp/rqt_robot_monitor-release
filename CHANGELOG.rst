@@ -2,6 +2,23 @@
 Changelog for package rqt_robot_monitor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.5.13 (2020-09-07)
+-------------------
+* Fixed the functionality of the timeline_view
+
+0.5.12 (2020-06-02)
+-------------------
+* use catkin_install_python instead of install
+
+0.5.11 (2020-05-13)
+-------------------
+* add Python 3 conditional dependencies
+
+0.5.10 (2020-04-19)
+-------------------
+* updated package to format 3
+* added mutex and checks to fix (`#13 <https://github.com/ros-visualization/rqt_robot_monitor/issues/13>`_)
+
 0.5.9 (2019-07-24)
 -----------
 * refactored code and made signaling more efficient
