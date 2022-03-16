@@ -2,6 +2,11 @@
 Changelog for package rqt_robot_monitor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.5.14 (2022-03-16)
+-------------------
+* Improve error and warning lists by only showing leaf-elements
+* Backported alternative view.
+
 0.5.13 (2020-09-07)
 -------------------
 * Fixed the functionality of the timeline_view
@@ -20,7 +25,7 @@ Changelog for package rqt_robot_monitor
 * added mutex and checks to fix (`#13 <https://github.com/ros-visualization/rqt_robot_monitor/issues/13>`_)
 
 0.5.9 (2019-07-24)
------------
+------------------
 * refactored code and made signaling more efficient
 * stale messages appear now in the error pane
 
